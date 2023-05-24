@@ -18,7 +18,7 @@ Open the files in a command line, then type either "node server.js" or "npx node
 
 Demonstration video: <https://drive.google.com/file/d/199-EE-z3e1D8RrkEiMYaM4lXoA1_Qn3m>
 
-![Social Network API Example](assets/screenshot.jpg)
+![Social Network API Example](./Assets/screenshot.jpg)
 
 ## Credits
 
