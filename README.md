@@ -8,8 +8,6 @@ This social network API uses routing and MongoDB databases to simulate a social 
 
 If Node.js and MySQL are not already installed in your system, you can get them at <https://nodejs.org> and <https://dev.mysql.com/downloads/mysql/>, respectively. Once installed, download the files in the repository. The files can then be run in a command line window (either Command Prompt, Terminal, or Git Bash depending on what your system & what you have installed).
 
-Open MySQL, create a workbench, copy-and-paste the text from *schema.sql*, then click on the left lightning bolt button to initialize the database.
-
 Within the command line, type "npm i" to install the app's dependencies.
 
 ## Usage
